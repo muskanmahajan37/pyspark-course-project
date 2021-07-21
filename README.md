@@ -1,4 +1,4 @@
-# sentiment-analysis-github-archive
+# pyspark-sentiment-analysis
 
 A course project at University of Oulu, Big data processing and applications (2021).
 - Leveraged PySpark to process +700 terabytes of Github Archive data.
